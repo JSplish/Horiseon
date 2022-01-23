@@ -1,4 +1,4 @@
-# Horiseon
+# Horiseon - Marketing Agency
 
 ## HTML
     * Semantic HTML
