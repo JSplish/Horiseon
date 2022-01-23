@@ -10,6 +10,6 @@
     * Fixed link issues and ensured communication with CSS
 
 ## CSS
-    * Fixed links to correctly commuicate with HTML
+    * Fixed links to correctly communicate with HTML
     * Consolidized to minimize amount of code
     * CSS comment tags
